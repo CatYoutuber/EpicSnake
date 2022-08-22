@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанных со сборкой.
 [assembly: AssemblyTitle("EpicSnake")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("EpicSnake game for EpicGames store")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("CatYoutuber TV © 2018-2022")]
+[assembly: AssemblyCompany("CatYoutuber TV")]
 [assembly: AssemblyProduct("EpicSnake")]
-[assembly: AssemblyCopyright("Copyright © CatYoutuber TV © 2018-2022 2022")]
+[assembly: AssemblyCopyright("Copyright © CatYoutuber TV 2018-2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // Можно задать все значения или принять номера сборки и редакции по умолчанию 
 // используя "*", как показано ниже:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("0.1.0.0")]
+[assembly: AssemblyFileVersion("0.1.0.0")]
